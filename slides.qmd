@@ -8,7 +8,10 @@ format:
       - custom.scss
     slide-number: c/t
     slide-tone: true
-    chalkboard: true
+    width: 1600
+    height: 900
+    margin: 0.05
+    chalkboard: false
     background-transition: fade
 code-line-numbers: false
 message: false
