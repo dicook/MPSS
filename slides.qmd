@@ -1642,7 +1642,7 @@ Elegant interactivity solutions with [detourr](https://casperhart.github.io/deto
 - [Flatland: A Romance of Many Dimensions (1884) Edwin Abbott](https://en.wikipedia.org/wiki/Flatland)
 - R packages: [tourr](http://ggobi.github.io/tourr/), [woylier](https://numbats.github.io/woylier/), [detourr](https://casperhart.github.io/detourr/), [liminal](https://sa-lee.github.io/liminal/), [langevitour](https://logarithmic.net/langevitour/index.html), [lionfish](https://mmedl.github.io/lionfish), [geozoo](http://schloerke.com/geozoo/all/).
 
-Slides made in [Quarto](https://quarto.org/), with code included.
+Slides made in [Quarto](https://quarto.org/), with code included. Available at [https://dicook.github.io/MPSS/slides.html](https://dicook.github.io/MPSS/slides.html). 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 :::
